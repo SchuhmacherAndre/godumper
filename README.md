@@ -1,4 +1,4 @@
-# sigscan
+# godumper
 
 A lightweight command-line tool for scanning process memory on Linux.
 
